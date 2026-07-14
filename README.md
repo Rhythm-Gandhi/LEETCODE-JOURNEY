@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
