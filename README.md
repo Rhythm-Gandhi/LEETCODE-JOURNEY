@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
