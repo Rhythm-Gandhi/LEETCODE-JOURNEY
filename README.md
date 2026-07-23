@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0217-contains-duplicate) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
