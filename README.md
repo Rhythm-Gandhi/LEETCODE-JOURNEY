@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0136-single-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Combinatorics
 |  |
 | ------- |
