@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
