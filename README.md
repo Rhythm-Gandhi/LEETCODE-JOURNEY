@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0217-contains-duplicate) |
+| [3536-maximum-product-of-two-digits](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 ## Combinatorics
 |  |
 | ------- |
