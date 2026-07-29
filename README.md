@@ -109,9 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
