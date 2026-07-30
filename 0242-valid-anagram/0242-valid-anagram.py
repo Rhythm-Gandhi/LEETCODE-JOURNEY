@@ -3,20 +3,15 @@ class Solution:
         
         if len(s) != len(t):
             return False 
-        count ={}
+        
+        freq = [0]*26
         for i in s:
-            if i in count:
-                count[i] = count[i]+1
-            else:
-                count[i] = 1
+            freq[ord(i) - ord('a')] += 1
         for i in t:
-            if i not in count:
-                return False
-            count[i] = count[i]-1
-            if count[i] <0:
+            freq[ord(i) - ord('a')] -= 1
+            if  freq[ord(i) - ord('a')]<0:
                 return False
         return True
-
         
 
 
