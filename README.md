@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
