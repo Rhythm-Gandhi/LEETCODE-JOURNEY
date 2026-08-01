@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
