@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -149,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
