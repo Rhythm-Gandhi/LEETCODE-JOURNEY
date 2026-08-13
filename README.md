@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0877-stone-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0877-stone-game) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
