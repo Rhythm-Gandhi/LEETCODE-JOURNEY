@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
