@@ -3,7 +3,9 @@ class Solution:
         frq = [0]*26
         j= 0
         maxi = 0
-        for i in range(len(s)):
+        i = 0
+        #for i in range(len(s)):
+        while i<len(s):
             ind = ord(s[i])-ord('a')
             frq[ind] +=1
                 
@@ -12,4 +14,5 @@ class Solution:
                 j +=1
 
             maxi = max(maxi,i-j+1)
+            i+=1
         return maxi
