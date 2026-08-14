@@ -194,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
