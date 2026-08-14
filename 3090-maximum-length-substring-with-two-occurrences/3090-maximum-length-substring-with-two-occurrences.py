@@ -1,16 +1,14 @@
 class Solution:
     def maximumLengthSubstring(self, s: str) -> int:
-        frq = {}
+        frq = [0]*26
         j= 0
         maxi = 0
         for i in range(len(s)):
-            if s[i] in frq:
-                frq[s[i]] += 1
-            else:
-                frq[s[i]] = 1
-
-            while frq[s[i]]>2:
-                frq[s[j]] -=1
+            ind = ord(s[i])-ord('a')
+            frq[ind] +=1
+                
+            while frq[ind]>2:
+                frq[ord(s[j])-ord('a')] -=1
                 j +=1
 
             maxi = max(maxi,i-j+1)
