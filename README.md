@@ -197,11 +197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -236,8 +238,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
