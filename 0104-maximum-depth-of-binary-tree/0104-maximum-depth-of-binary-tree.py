@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-'''
+#'''
 #code 1
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
@@ -12,7 +12,7 @@ class Solution:
         if not root:
             return 0
         l= self.maxDepth(root.left)
-        r= self.maxDepth(root.right
+        r= self.maxDepth(root.right)
         return 1 + max(l,r)
         
 '''
@@ -27,3 +27,4 @@ class Solution:
         right_depth = self.maxDepth(root.right)
         
         return 1 + max(left_depth, right_depth)
+'''
