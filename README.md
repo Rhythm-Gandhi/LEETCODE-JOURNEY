@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
