@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
