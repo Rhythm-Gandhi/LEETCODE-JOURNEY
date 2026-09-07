@@ -3,15 +3,16 @@ class Solution:
         n = len(s)
         MOD = 10**9 + 7
 
-        dp = [1] * n
-        result = 0
+        countEndWith = [0] * 26
+        total = 0
 
         for i in range(n):
+            idx = ord(s[i]) - ord('a')
 
-            for j in range(i):
-                if s[i] != s[j]:
-                    dp[i] = (dp[i] + dp[j]) % MOD
+            cur = (1 + total - countEndWith[idx] + MOD) % MOD
 
-            result = (result + dp[i]) % MOD
+            total = (total + cur) % MOD
 
-        return result
+            countEndWith[idx] = (countEndWith[idx] + cur) % MOD
+
+        return total
