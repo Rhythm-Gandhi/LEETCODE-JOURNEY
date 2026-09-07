@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1563-stone-game-v) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0409-longest-palindrome) |
+| [0940-distinct-subsequences-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
