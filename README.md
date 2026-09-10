@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -334,12 +335,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
