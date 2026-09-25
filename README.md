@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -404,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
