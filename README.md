@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1927-sum-game) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
