@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0301-remove-invalid-parentheses) |
 | [0409-longest-palindrome](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0856-score-of-parentheses) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Rhythm-Gandhi/LEETCODE-JOURNEY/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
